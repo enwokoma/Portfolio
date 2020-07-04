@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-Emmanuel_Nwokoma-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuelnwokoma)
 [![twitter badge](https://img.shields.io/badge/twitter-@enwokoma-1da1f2?style=flat&logo=twitter)](https://twitter.com/enwokoma)
 [![instagram badge](https://img.shields.io/badge/instagram-@emmanwokoma-E1306C?style=flat&logo=instagram)](https://instagram.com/emmanwokoma)
-[![website badge](https://img.shields.io/badge/portfolio-enwokoma.github.io-blueviolet?style=flat)](https://enwokoma.github.io)
+[![website badge](https://img.shields.io/badge/facebook-profile-blue?style=flat&logo=facebook)](https://facebook.com/austin.nwokoma.9)
 
 I am a Software Developer open to collaborating.
 
